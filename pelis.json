@@ -1,0 +1,72 @@
+[
+{
+    "title": "Titanic",
+    "rating": 10.0,
+    "tags": ["drama", "historia", "1997"]
+  },
+{
+    "title": "Mean Grils",
+    "rating": 8.5,
+    "tags": ["favorita", "comedia", "adolescentes"]
+  },
+{
+    "title": "Dear Jhon",
+    "rating": 7.3,
+    "tags": ["drama", "guerra", "2007"]
+  },
+{
+    "title": "Focus",
+    "rating": 9.0,
+    "tags": ["accion", "nueva", "casino"]
+  },
+  {
+    "title": "Inception",
+    "rating": 8.8,
+    "tags": ["sci-fi", "thriller", "accion"]
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "rating": 9.3,
+    "tags": ["drama", "inspirador", "suspense"]
+  },
+  {
+    "title": "Parasite",
+    "rating": 8.6,
+    "tags": ["drama", "comedia", "thriller"]
+  },
+  {
+    "title": "The Matrix",
+    "rating": 8.7,
+    "tags": ["sci-fi", "accion", "filosofico"]
+  },
+  {
+    "title": "The Godfather",
+    "rating": 9.2,
+    "tags": ["drama", "criminal", "epico"]
+  },
+  {
+    "title": "Pulp Fiction",
+    "rating": 8.9,
+    "tags": ["crimen", "comedia", "cult"]
+  },
+  {
+    "title": "Interstellar",
+    "rating": 8.6,
+    "tags": ["sci-fi", "drama", "aventura"]
+  },
+  {
+    "title": "The Dark Knight",
+    "rating": 9.8,
+    "tags": ["accion", "superheroes", "thriller"]
+  },
+  {
+    "title": "Gladiator",
+    "rating": 8.5,
+    "tags": ["accion", "epico", "histórico"]
+  },
+  {
+    "title": "Forrest Gump",
+    "rating": 8.8,
+    "tags": ["drama", "comedia", "inspirador"]
+  }
+]
